@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="32px"> Hi, I'm Ihda Mukhoyar
+# <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="32px"> Hi, I'm Ihda
 
 ### 📈 GitHub Stats
 
